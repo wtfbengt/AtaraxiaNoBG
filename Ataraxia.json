@@ -152,11 +152,6 @@
         "GREEN_360": "#74646d"
     },
     
-    "background": {
-        "blur": 0.5,
-        "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1165313103626522715/flower_outline_4.jpg?ex=65466566&is=6533f066&hm=021620dd18a48d11a524b52449e56e0b2e07097a76afedc4cbec8dafa8055409&",
-        "alpha": 0.7
-        },
         "plus":{
        "version":"0",
         "iconpack":"rosiecord-plumpy",
